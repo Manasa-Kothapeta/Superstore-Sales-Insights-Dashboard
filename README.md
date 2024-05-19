@@ -38,9 +38,4 @@ Navigate through the dashboard and reports to visualize the data and gain insigh
 Customize and Analyze:
 Experiment with filters and slicers to customize the reports and perform your analysis.
 
-Additional Resources:
-Power BI Documentation
-Power BI Community
-Power BI Blog
-Feedback and Contributions:
-Feedback and contributions are welcome! If you have suggestions for improvements or would like to contribute to the project, feel free to open an issue or submit a pull request.
+
