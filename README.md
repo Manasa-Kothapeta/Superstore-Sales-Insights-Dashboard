@@ -1,4 +1,4 @@
-# Power BI Data Analysis and Visualization Project:  
+# Superstore Sales Insights Dashboard Using PowerBI:  
 This project showcases the process of data import, cleaning, processing, and visualization using Power BI. The aim is to provide a comprehensive understanding of how to leverage Power BI for insightful data analysis and reporting.
 
 # Project Highlights:
